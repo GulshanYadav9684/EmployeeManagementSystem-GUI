@@ -30,6 +30,12 @@ Purpose and Usage:
 This project demonstrates core Java concepts like event-driven programming, file I/O operations, and object-oriented principles in a real-world application. It is a simple yet functional Employee Management System suitable for small-scale management tasks or educational purposes.
 
 
+How To Run The Project : 
+1. Compile the Code
+  ->javac EmployeeManagementSystemGUI.java
+2.Run the code
+  -> java EmployeeManagementSystemGUI
+3. GUI Interface will open
 
 
 
